@@ -1,0 +1,2 @@
+score on current level:4900
+your score =44800
